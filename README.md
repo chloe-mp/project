@@ -11,7 +11,7 @@ This project is a simple web application that performs sentiment analysis on use
 ### Technologies Used:
 - **Flask**: A lightweight web framework for Python, used to create the web application.
 - **TextBlob**: A Python library for processing textual data and performing sentiment analysis.
-- **HTML/CSS/JavaScript**: For the frontend interface of the application.
+- **HTML/CSS**: For the frontend interface of the application.
 
 ### Setup Instructions:
 1. **Clone the Repository:**
