@@ -16,5 +16,5 @@ This project is a simple web application that performs sentiment analysis on use
 ### Setup Instructions:
 1. **Clone the Repository:**
    ```bash
-   git clone <https://github.com/chloe-mp/project.git>
+   git clone <https://github.com/chloe-mp/project/>
    cd <project>
